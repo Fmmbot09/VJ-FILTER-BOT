@@ -32,7 +32,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete 
 
-Join My <a href='https://telegram.dog/ur_rishu_143'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.dog/Filmone_Backup'>Update Channel</a> For More Update Regarding Repo.</b>
 
 
 ## Commands
@@ -191,9 +191,9 @@ Edit info.py with variables as given below then run bot
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/rishu1286)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Stylish_Star2)
 
-<b>[Note To A So Called Dev](https://telegram.dog/rishu1286): 
+<b>[Note To A So Called Dev](https://telegram.dog/Stylish_Star2): 
 
 Fork The Repo And Edit As Per Your Needs.</b>
 
